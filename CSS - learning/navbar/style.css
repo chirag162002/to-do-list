@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.nav-div {
+  background-color: red;
+  height: 50px;
+}
+.nav {
+  width: 25vw;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  list-style: none;
+}
